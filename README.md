@@ -6,22 +6,26 @@
 ## Hướng dẫn sử dụng
 
 1. **Nhập Token bot Telegram** 📝
+   - Kiểm tra cài đặt `.NET 6.0` trước khi sử dụng
+   - Nếu chưa cài dặt: [https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer)
+
+2. **Nhập Token bot Telegram** 📝
    - Vào thư mục `config`
    - Tạo hoặc chỉnh sửa file `api_bot.txt`
    - Nhập token bot vào file này
 
-2. **Thay đổi thông tin liên hệ** 📇
+3. **Thay đổi thông tin liên hệ** 📇
    - Vào thư mục `config`
    - Tạo hoặc chỉnh sửa file `lienhe.txt`
    - Nhập thông tin liên hệ vào file này
 
-3. **Nhập API captcha của ocr.space** 🔑
+4. **Nhập API captcha của ocr.space** 🔑
    - Vào thư mục `config`
    - Tạo hoặc chỉnh sửa file `apicaptcha.txt`
    - Nhập API captcha của ocr.space vào file này (có thể bỏ nhiều API, mỗi API một dòng)
    - Lưu ý: ocr.space có thể giải lâu hơn và không chính xác
 
-4. **Sử dụng Autocaptcha** 🤖
+5. **Sử dụng Autocaptcha** 🤖
    - Cách làm tương tự như trên
    - Nhập API vào thư mục `config`
    - Tạo hoặc chỉnh sửa file `apicaptcha.txt`
