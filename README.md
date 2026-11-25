@@ -41,3 +41,13 @@
 - 👤 Tác giả: Nguyễn Thế Lợi
 - 📞 SĐT: 0963 159 294
 - 👮 Facebook: [https://www.facebook.com/Lowji194](https://www.facebook.com/Lowji194)
+
+---
+
+## ☕ Buy me a coffee
+
+Nếu dự án này hữu ích với bạn, hãy mời mình một ly cà phê để ủng hộ việc duy trì và phát triển dự án. Cảm ơn bạn!
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg"><img src="https://raw.githubusercontent.com/lowji194/lowji194/main/assets/donate-qr.svg" width="300" alt="Donate — scan the QR code"></a>
+</p>
