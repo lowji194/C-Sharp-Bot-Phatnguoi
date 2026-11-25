@@ -1,3 +1,5 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-1e293b?style=flat-square)](README-EN.md)
+
 # C-Sharp-Bot-Phatnguoi 🤖
 
 ## Cơ chế hoạt động tương tự như Bot bản Python
@@ -37,10 +39,9 @@
 ## 📞 Thông tin liên hệ
 
 - 🌐 Website: [https://theloi.io.vn](https://theloi.io.vn)
-- 🔥 Bot kiểm tra phạt nguội 🔥
 - 👤 Tác giả: Nguyễn Thế Lợi
-- 📞 SĐT: 0963 159 294
-- 👮 Facebook: [https://www.facebook.com/Lowji194](https://www.facebook.com/Lowji194)
+- 💬 Telegram: [@theloi194](https://t.me/theloi194)
+- 📌 Facebook: [https://www.facebook.com/Lowji194](https://www.facebook.com/Lowji194)
 
 ---
 
